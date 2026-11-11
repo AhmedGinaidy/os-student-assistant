@@ -1,0 +1,22 @@
+
+id,category,question
+1,Fundamentals,What is an Operating System?
+2,Fundamentals,What are the main functions of an Operating System?
+3,Fundamentals,What is the difference between a kernel and a shell?
+4,Fundamentals,What are the different types of Operating Systems?
+5,Fundamentals,What is a system call and why is it used?
+6,Process Management,What is a process?
+7,Process Management,What information is stored in a Process Control Block?
+8,Process Management,What is the difference between FCFS and Round Robin scheduling?
+9,Process Management,What is the difference between a process and a thread?
+10,Process Management,What is Inter-Process Communication?
+11,Memory Management,What is memory management?
+12,Memory Management,What is the difference between paging and segmentation?
+13,Memory Management,What is virtual memory?
+14,Memory Management,Explain the FIFO and LRU page replacement algorithms.
+15,Memory Management,What is the difference between internal and external fragmentation?
+16,Storage and Synchronization,What is a file system?
+17,Storage and Synchronization,What is the difference between FCFS and SSTF disk scheduling?
+18,Storage and Synchronization,What are the four necessary conditions for deadlock?
+19,Storage and Synchronization,What is a critical section?
+20,Storage and Synchronization,What is the difference between a semaphore and a mutex?

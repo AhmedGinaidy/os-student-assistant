@@ -1,0 +1,27 @@
+
+filename,student,category,topic,source
+doc01.pdf,Student 1,Fundamentals,Introduction to Operating Systems,University lecture notes
+doc02.pdf,Student 1,Fundamentals,OS Functions and Responsibilities,University lecture notes
+doc03.pdf,Student 1,Fundamentals,Types of Operating Systems,University lecture notes
+doc04.pdf,Student 1,Fundamentals,OS Architecture and Components,University lecture notes
+doc05.pdf,Student 1,Fundamentals,Kernel Shell and System Calls,University lecture notes
+doc06.pdf,Student 1,Process Management,Processes and Process States,University lecture notes
+doc07.pdf,Student 1,Process Management,Process Control Block,University lecture notes
+doc08.pdf,Student 1,Process Management,CPU Scheduling Algorithms,University lecture notes
+doc09.pdf,Student 1,Process Management,Threads and Multithreading,University lecture notes
+doc10.pdf,Student 1,Process Management,Inter-Process Communication,University lecture notes
+doc11.pdf,Student 1,Memory Management,Memory Management Fundamentals,University lecture notes
+doc12.pdf,Student 1,Memory Management,Paging and Segmentation,University lecture notes
+doc13.pdf,Student 1,Memory Management,Virtual Memory,University lecture notes
+doc14.pdf,Student 1,Memory Management,Page Replacement Algorithms,University lecture notes
+doc15.pdf,Student 1,Memory Management,Memory Allocation and Fragmentation,University lecture notes
+doc16.pdf,Student 1,Storage and Synchronization,File Systems,University lecture notes
+doc17.pdf,Student 1,Storage and Synchronization,Disk Scheduling Algorithms,University lecture notes
+doc18.pdf,Student 1,Storage and Synchronization,Deadlocks,University lecture notes
+doc19.pdf,Student 1,Storage and Synchronization,Process Synchronization and Critical Sections,University lecture notes
+doc20.pdf,Student 1,Storage and Synchronization,Semaphores and Mutexes,University lecture notes
+doc22.pdf,Student 1,Storage and Synchronization,Semaphores and Mutexes,University lecture notes
+doc22.pdf,Student 1,Storage and Synchronization,Semaphores and Mutexes,University lecture notes
+doc23.pdf,Student 1,Storage and Synchronization,Semaphores and Mutexes,University lecture notes
+doc24.pdf,Student 1,Storage and Synchronization,Semaphores and Mutexes,University lecture notes
+
